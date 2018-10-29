@@ -1,0 +1,33 @@
+
+.first_page {
+	-fx-background-color: radial-gradient(center 50% 50%, radius 70%, #194476, #092138);
+	-fx-focus-color: transparent;
+}
+
+.buttons {
+	-fx-font-size: 15px;
+}
+
+.label {
+	-fx-font-size: 15px;
+    -fx-text-fill: white;
+}
+
+.add_a_planet {
+	-fx-fill: white;
+	-fx-font-size: 25px;
+}
+
+.controls_label {
+	-fx-fill: white;
+	-fx-font-size: 25px;
+}
+
+.enter {
+	-fx-font-size: 25px;
+}
+ 
+ .scroll {
+ 	-fx-background: transparent;
+ 	-fx-background-color: transparent;
+ }
